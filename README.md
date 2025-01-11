@@ -3,6 +3,8 @@ Generate broll for a video using AI
 
 Here is an example [output](https://github.com/Anil-matcha/AI-B-roll/blob/main/final_video_with_broll.mp4) generated from this [input](https://github.com/Anil-matcha/AI-B-roll/blob/main/video.mp4) video
 
+If you wish to add AI b-roll automatically with api, here is one https://docs.vadoo.tv/docs/guide/create-ai-captions
+
 ### Tutorial -> https://youtu.be/x34YbMkdPbc
 
 ### Demo
